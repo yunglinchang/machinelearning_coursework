@@ -1,2 +1,2 @@
 # machine_learning_coursework
-BDM41301
+INTRODUCTION TO MACHINE LEARNING BDM41301
