@@ -6,7 +6,7 @@ This repository contains all the code in BDM41301 INTRODUCTION TO MACHINE LEARNI
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
-## included
+## Machine Learning Algorithms included:
  - Decision Tree
  - Gradient Descent Regression
  - K-means
